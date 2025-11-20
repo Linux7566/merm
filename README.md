@@ -27,6 +27,7 @@ These diagrams represent the main system design and planning:
 - [Gantt Chart](./Food%20Delivery%20Service/gantt.md) – Project schedule and timeline.  
 - [User Journey](./Food%20Delivery%20Service/journey.md) – Step-by-step user experience.  
 - [Sequence Diagram](./Food%20Delivery%20Service/sequenceDiagram.md) – Interaction between objects over time.  
+- [Pie Chart Diagram](./Food%20Delivery%20Service/pieDiagram.md) - Data, sectors.
 
 ### Work Folder
 
@@ -40,6 +41,7 @@ These diagrams represent alternative versions, additional explorations, or updat
 - [Sequence Diagram](./Work/sequenceDiagram_two.md)  
 - [State Diagram](./Work/stateDiagram-v2_two.md)  
 - [Tea Diagram](./Work/tea_diagram_two.md)  
+- [Pie Chart Diagram](.Work/pieDiagram.md)
 
 ---
 
