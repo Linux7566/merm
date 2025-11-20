@@ -1,5 +1,5 @@
 ```mermaid
-pieChart
+pie
     title Источник заказов — Food Delivery Service
     "Мобильное приложение" : 65
     "Агрегаторы (Uber Eats, Яндекс.Еда и т.д.)" : 20
